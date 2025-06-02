@@ -13,7 +13,7 @@
 
 ###
 
-<p align="left">My name is Dave<br><br>- 🔭 I’m working as Freelancer on Fiverr<br>- 📚 I'm currently learning Raylib game dev<br>- ⚡ In my free time I playing guitar</p>
+<p align="left">My name is Dave<br><br>- 🔭 I’m working as Freelancer on Fiverr<br>- 📚 I'm currently learning Raylib game dev<br>- 🎸 In my free time I play guitar </p>
 
 ###
 
