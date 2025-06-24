@@ -36,13 +36,3 @@
 </div>
 
 ###
-
-<h3 align="left">🔥   My Stats :</h3>
-
-###
-
-<div align="center">
-  <img src="https://streak-stats.demolab.com?user=abcdavk&theme=dark" height="220" alt="streak graph"  />
-</div>
-
-###
