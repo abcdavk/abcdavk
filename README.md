@@ -1,5 +1,5 @@
 <div align="center">
-  <img height="150" src="https://avatars.githubusercontent.com/u/81420586?v=4"  />
+  <img height="150" src="https://storage.googleapis.com/gweb-uniblog-publish-prod/original_images/Dino_non-birthday_version.gif"  />
 </div>
 
 
@@ -9,15 +9,15 @@
 
 ###
 
-<h3 align="left">👩‍💻  About Me</h3>
+<h3 align="left">✍️  About Me</h3>
 
 ###
 
-<p align="left">My name is Dave<br><br>- 🔭 I’m working as Freelancer on Fiverr<br>- 📚 I'm currently learning Ebiten game dev<br>- 🎸 In my free time I play guitar </p>
+<p align="left">My name is Dave<br><br>- 📚 I'm a student <br>- 🔭 I’m working as Freelancer on Fiverr<br>- 🎸 In my free time I play guitar </p>
 
 ###
 
-<h3 align="left">🛠 Language and tools</h3>
+<h3 align="left">🧰 Language and tools</h3>
 
 ###
 
@@ -29,6 +29,8 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/cplusplus/cplusplus-original.svg" height="40" alt="cpp logo"/>
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/go/go-original-wordmark.svg" height="40" alt="js logo" />
+  <img width="12" />
+  <img src="https://devicon-website.vercel.app/api/rust/plain.svg"  height="40" alt="rust logo"></img>
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" height="40" alt="react logo"  />
   <img width="12" />
