@@ -1,5 +1,5 @@
 <div align="center">
-  <img height="150" src="https://storage.googleapis.com/gweb-uniblog-publish-prod/original_images/Dino_non-birthday_version.gif"  />
+  <img height="90" src="https://storage.googleapis.com/gweb-uniblog-publish-prod/original_images/Dino_non-birthday_version.gif" />
 </div>
 
 
